@@ -1,0 +1,20 @@
+// color palette
+// midnight green: #004C54;
+// silver: #A5ACAF;
+// silver-secondary: #ACC0C6;
+// charcoal: #565A5C;
+// black: #000000;
+
+$primary: #004c54;
+$body-bg: #acc0c6;
+$body-color: #565a5c;
+
+@import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+
+@import '~bootstrap/scss/bootstrap.scss';
+
+body {
+	font-family: 'Mooli', sans-serif;
+}
+
+// https://mi-movie-app-6566ce5d2cb3.herokuapp.com
