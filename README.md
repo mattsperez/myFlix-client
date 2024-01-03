@@ -4,6 +4,9 @@
 _Using React, build the client-side for an app called myFlix based on its
 existing server-side code (REST API and database)._
 
+### **To Run:**
+run the application locally, download the repo, navigate to the project directory, and enter the command: `npm parcel src/index.html` in your terminal or you can use the script: `npm run start` also you can visit the live hosted app at: https://miflix.netlify.app.
+
 ### **Key Features:**
 + **Main view**
   * Returns ALL movies to the user (each movie item with an image, title, and description)
